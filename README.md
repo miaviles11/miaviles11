@@ -1,43 +1,57 @@
-<h1 align="center">¡Hola! Soy Miguel Ángel Avilés 👋</h1>
+# 👋 ¡Hola! Soy Miguel Ángel Avilés García
 
-<p align="center">
-  🧠 Apasionado por la <strong>inteligencia artificial</strong>, el <strong>emprendimiento</strong> y el <strong>software de impacto</strong>.
-  <br />
-  💻 CEO de <a href="https://github.com/miaviles11">LightU</a> · Desarrollador en C, Python y sistemas locales de IA.
-  <br />
-  📍 Madrid, España | 🤝 Siempre abierto a colaborar
-</p>
+🎯 Emprendedor tecnológico | 🧠 Apasionado por la IA y la automatización | 🧩 Conector entre estrategia, software y propósito
 
 ---
 
-### 🧰 Tecnologías con las que trabajo
-
-<img src="https://skillicons.dev/icons?i=python,c,linux,git,vscode,html,js,tailwind,postgres,docker" alt="Tecnologías" />
+Soy fundador y director de [LightU](https://www.lightu.es/), una startup que combina Inteligencia Artificial y Mentoring para revolucionar la **orientación académica y profesional**. Actualmente, compagino el desarrollo de productos digitales con la consultoría en transformación digital, y me estoy formando en ingeniería de software en [42 Madrid](https://www.42madrid.com/), un entorno disruptivo basado en el aprendizaje peer-to-peer.
 
 ---
 
-### 🚀 Proyectos en marcha
+## 🚀 ¿Qué encontrarás en mi GitHub?
 
-- 🧠 **Asistente IA local** con Ollama + LlamaIndex + GUI + voz  
-  ↳ ChatGPT en tu PC, con memoria, PDF, voz y sesiones
-- 🌱 **LightU** — Plataforma de orientación académica y profesional para estudiantes
-- 🛠️ TFG y herramientas en Campus 42 + Telefónica
+🧪 **Proyectos experimentales**
+- [Dreamchain](https://github.com/miaviles11/dreamchain-v1): plataforma descentralizada que fusiona IA, blockchain y automatización.
+- [Kivo](https://v0-sustainable-land-sale-page-wine.vercel.app/): conecta propietarios e inversores para transformar terrenos en oportunidades sostenibles.
+
+🧩 **Soluciones reales**
+- Aplicaciones diseñadas desde cero para resolver problemas empresariales.
+- MVPs funcionales con foco en UX/UI, automatización y escalabilidad.
+- Integración de APIs, desarrollo back & front en entornos cloud.
+
+🔧 **Stack en constante evolución**
+- Lenguajes: C · Python · JavaScript
+- DevOps: Git · GitHub Actions · Linux
+- Tools: Figma · Notion · Zapier · Make · Vercel
+- Enfoque: Ágil · Clean code · Automatización inteligente
 
 ---
 
-### 📊 Stats & Actividad
+## 👨‍💼 Un poco más sobre mí
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miaviles11&show_icons=true&theme=react&hide=prs" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miaviles11&theme=react" height="160" />
-</p>
+📍 Madrid, España  
+🎓 Graduado en Digital Business Management por la URJC  
+🛠️ Estudiante de programación en 42 Madrid  
+🧭 Ex-consultor freelance en transformación digital  
+📈 Más de 40 clientes y +15 personas gestionadas en proyectos de IA  
+📚 Fan del aprendizaje continuo (y sí, me encantan los frameworks de productividad)
 
 ---
 
-### 🌐 Encuéntrame en
+## 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/feed/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/miaviles11)
+- 💼 [LinkedIn](https://www.linkedin.com/in/miguel-angel-aviles/)
+- 🌍 [Web de LightU](https://www.lightu.es/)
+- 📧 ma.aviles.garcia@gmail.com
+
+---
+
+## 🧠 Fun facts
+
+- Mi propósito: liderar iniciativas de innovación con impacto social.
+- Creo que la tecnología tiene sentido si transforma vidas reales.
+- Combino pensamiento estratégico, pasión creativa y foco técnico.
+- Y sí, soy de los que sueñan grande y ejecutan en pequeños sprints 😉
 
 ---
 
@@ -50,3 +64,6 @@
 ### ☕ ¿Charlamos?
 
 Si te interesa la IA, la educación, o la creación de agentes locales… ¡conectemos!  
+
+⭐ ¡Gracias por pasarte por mi perfil! Si crees que podemos colaborar, estoy siempre abierto a construir cosas nuevas juntos.
+
