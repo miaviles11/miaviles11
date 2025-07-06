@@ -24,17 +24,14 @@ He trabajado con empresas de distintos sectores y liderado equipos internacional
 ### 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miaviles11&show_icons=true&theme=react&hide=prs" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miaviles11&show_icons=true&theme=react&hide=prs" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miaviles11&theme=react" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaviles11&layout=compact&theme=radical" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miaviles11&theme=react" width="500" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miaviles11&theme=react-dark" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaviles11&layout=compact&theme=radical" width="500" />
-</p>
-
 
 ---
 
@@ -84,15 +81,6 @@ Me encanta compartir ideas, crear sinergias y aprender de otros builders.
 
 ⭐ ¡Gracias por pasarte por mi perfil!  
 Si crees que podemos colaborar, estoy siempre abierto a construir cosas nuevas juntos.
-
----
-
-### 🧠 Fun facts
-
-- Mi propósito: liderar iniciativas de innovación con impacto social.  
-- Creo que la tecnología tiene sentido si transforma vidas reales.  
-- Combino pensamiento estratégico, pasión creativa y foco técnico.  
-- Y sí, soy de los que sueñan grande y ejecutan en pequeños sprints.
 
 ---
 
