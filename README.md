@@ -21,6 +21,17 @@ He trabajado con empresas de distintos sectores y liderado equipos internacional
 
 ---
 
+### 📈 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miaviles11&show_icons=true&theme=react&hide=prs" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miaviles11&theme=react" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miaviles11&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaviles11&layout=compact&theme=radical" height="160" />
+</p>
+
+---
+
 ### 🧩 Áreas clave
 
 - Inteligencia Artificial Generativa  
@@ -51,15 +62,6 @@ He trabajado con empresas de distintos sectores y liderado equipos internacional
 - [**LightU**](https://www.lightu.es): Plataforma IA + mentoring para orientar académica y profesionalmente a estudiantes.  
 - [**Kivo**](https://v0-sustainable-land-sale-page-wine.vercel.app/): conecta propietarios de terrenos con inversores para proyectos sostenibles.  
 - [**Dreamchain**](https://github.com/miaviles11/dreamchain-v1): experimento que mezcla blockchain, IA y automatización para soluciones descentralizadas.
-
----
-
-### 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miaviles11&show_icons=true&theme=react&hide=prs" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miaviles11&theme=react" height="160" />
-</p>
 
 ---
 
