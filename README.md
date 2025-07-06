@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Miguel Ángel Avilés 👋</h1>
+<h1 align="center">Hola, soy Miguel Ángel Avilés 👋</h1> 
 <h3 align="center">Emprendedor digital, builder full-stack & eterno aprendiz</h3>
 
 ---
@@ -23,37 +23,43 @@ He trabajado con empresas de distintos sectores y liderado equipos internacional
 
 ### 🧩 Áreas clave
 
-- 🧠 Inteligencia Artificial Generativa  
-- 🔄 Automatización & No-Code / Low-Code  
-- 🌐 Transformación Digital  
-- 📊 Análisis de Datos & Visualización  
-- 🧪 Emprendimiento Tech con Propósito  
-- 💼 Estrategia & Gestión de Proyectos
+- Inteligencia Artificial Generativa  
+- Automatización & No-Code / Low-Code  
+- Transformación Digital  
+- Análisis de Datos & Visualización  
+- Emprendimiento Tech con Propósito  
+- Estrategia & Gestión de Proyectos
 
 ---
 
 ### 🛠️ Tech stack
 
-- Lenguajes: `C`, `Python`, `JavaScript`, `HTML`, `CSS`
-- Desarrollo: `Git`, `Shell`, `Figma`, `Make.com`, `Zapier`
-- Frameworks y herramientas: `React`, `Node.js`, `Vercel`, `Tailwind`, `Docker`
-- Automatización: `Make`, `GPTs`, `IA generativa`, `Notion API`, `Zaps personalizados`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,linux,docker,git,vscode,figma" alt="Tech stack" />
+</p>
+
+- Lenguajes: `C`, `Python`, `JavaScript`, `HTML`, `CSS`  
+- Desarrollo: `Git`, `Shell`, `Figma`, `Make.com`, `Zapier`  
+- Frameworks y herramientas: `React`, `Node.js`, `Vercel`, `Tailwind`, `Docker`  
+- Automatización: `Make`, `GPTs`, `IA generativa`, `Notion API`, `Zaps personalizados`  
 - Otros: `Scrum`, `Kanban`, `Design Thinking`, `UI/UX`, `Crowdfunding`, `Pitching`
 
 ---
 
 ### 🧠 Proyectos destacados
 
-- 🔥 [**LightU**](https://www.lightu.es): Plataforma IA + mentoring para orientar académica y profesionalmente a estudiantes.
-- 🌱 [**Kivo**](https://v0-sustainable-land-sale-page-wine.vercel.app/): conecta propietarios de terrenos con inversores para proyectos sostenibles.
-- 🧬 [**Dreamchain**](https://github.com/miaviles11/dreamchain-v1): experimento que mezcla blockchain, IA y automatización para soluciones descentralizadas.
+- [**LightU**](https://www.lightu.es): Plataforma IA + mentoring para orientar académica y profesionalmente a estudiantes.  
+- [**Kivo**](https://v0-sustainable-land-sale-page-wine.vercel.app/): conecta propietarios de terrenos con inversores para proyectos sostenibles.  
+- [**Dreamchain**](https://github.com/miaviles11/dreamchain-v1): experimento que mezcla blockchain, IA y automatización para soluciones descentralizadas.
 
 ---
 
 ### 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miaviles11&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaviles11&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miaviles11&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaviles11&layout=compact&theme=radical" height="160" />
+</p>
 
 ---
 
@@ -69,22 +75,20 @@ Si te interesa la **tecnología**, la **educación**, o el **mundo empresarial**
 Me encanta compartir ideas, crear sinergias y aprender de otros builders.  
 
 ⭐ ¡Gracias por pasarte por mi perfil!  
-Si crees que podemos colaborar, estoy siempre abierto a construir cosas nuevas juntos.  
+Si crees que podemos colaborar, estoy siempre abierto a construir cosas nuevas juntos.
 
 ---
 
 ### 🧠 Fun facts
 
-- 🎯 Mi propósito: liderar iniciativas de innovación con impacto social.  
-- 🧍 Creo que la tecnología tiene sentido si transforma vidas reales.  
-- 🎨 Combino pensamiento estratégico, pasión creativa y foco técnico.  
-- 🚀 Y sí, soy de los que sueñan grande y ejecutan en pequeños sprints 😉
+- Mi propósito: liderar iniciativas de innovación con impacto social.  
+- Creo que la tecnología tiene sentido si transforma vidas reales.  
+- Combino pensamiento estratégico, pasión creativa y foco técnico.  
+- Y sí, soy de los que sueñan grande y ejecutan en pequeños sprints.
 
 ---
 
 ### 📬 Conectemos
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/miguel-angel-aviles/)
-- 💌 ma.aviles.garcia@gmail.com
-
----
+- [LinkedIn](https://www.linkedin.com/in/miguel-angel-aviles/)  
+- ma.aviles.garcia@gmail.com
