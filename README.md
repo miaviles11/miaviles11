@@ -55,6 +55,17 @@ Soy fundador y director de [LightU](https://www.lightu.es/), una startup que com
 
 ---
 
+## 🛠️ Recursos que recomiendo
+
+| Herramienta                           | ¿Para qué sirve?                        | Enlace                                                  |
+|--------------------------------------|----------------------------------------|----------------------------------------------------------|
+| `readme.so`                          | Editor visual de `README.md`           | [🔗 Ir al sitio](https://readme.so/)                     |
+| `Shields.io`                         | Crear insignias (badges) para GitHub   | [🔗 Ir al sitio](https://shields.io/)                    |
+| `GitHub Readme Stats`                | Mostrar stats bonitos de tu perfil     | [🔗 Ir al repo](https://github.com/anuraghazra/github-readme-stats) |
+| `GitHub Profile README Generator`    | Generar README de perfil personal      | [🔗 Ir al generador](https://rahuldkjain.github.io/gh-profile-readme-generator/) |
+
+---
+
 ### 💬 Frase favorita
 
 > “Hazlo tan bien que no puedan ignorarte.” — Steve Martin
