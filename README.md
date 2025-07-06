@@ -1,80 +1,90 @@
-# 👋 ¡Hola! Soy Miguel Ángel Avilés García
-
-🎯 Emprendedor tecnológico | 🧠 Apasionado por la IA y la automatización | 🧩 Conector entre estrategia, software y propósito
-
----
-
-Soy fundador y director de [LightU](https://www.lightu.es/), una startup que combina Inteligencia Artificial y Mentoring para revolucionar la **orientación académica y profesional**. Actualmente, compagino el desarrollo de productos digitales con la consultoría en transformación digital, y me estoy formando en ingeniería de software en [42 Madrid](https://www.42madrid.com/), un entorno disruptivo basado en el aprendizaje peer-to-peer.
+<h1 align="center">Hola, soy Miguel Ángel Avilés 👋</h1>
+<h3 align="center">Emprendedor digital, builder full-stack & eterno aprendiz</h3>
 
 ---
 
-## 🚀 ¿Qué encontrarás en mi GitHub?
-
-🧪 **Proyectos experimentales**
-- [Dreamchain](https://github.com/miaviles11/dreamchain-v1): plataforma descentralizada que fusiona IA, blockchain y automatización.
-- [Kivo](https://v0-sustainable-land-sale-page-wine.vercel.app/): conecta propietarios e inversores para transformar terrenos en oportunidades sostenibles.
-
-🧩 **Soluciones reales**
-- Aplicaciones diseñadas desde cero para resolver problemas empresariales.
-- MVPs funcionales con foco en UX/UI, automatización y escalabilidad.
-- Integración de APIs, desarrollo back & front en entornos cloud.
-
-🔧 **Stack en constante evolución**
-- Lenguajes: C · Python · JavaScript
-- DevOps: Git · GitHub Actions · Linux
-- Tools: Figma · Notion · Zapier · Make · Vercel
-- Enfoque: Ágil · Clean code · Automatización inteligente
+🌍 **Desde Madrid**, estoy construyendo soluciones tecnológicas con impacto social real.  
+🎯 **CEO & fundador de [LightU](https://www.lightu.es)** — orientación académica y profesional personalizada con IA.  
+👨‍💻 Actualmente: desarrollador en formación en 42 Madrid | becario en Estrategia TI en AENA.  
+💡 Apasionado por la tecnología, estrategia y empresa.  
 
 ---
 
-## 👨‍💼 Un poco más sobre mí
+### 🚀 Sobre mí
 
-📍 Madrid, España  
-🎓 Graduado en Digital Business Management por la URJC  
-🛠️ Estudiante de programación en 42 Madrid  
-🧭 Ex-consultor freelance en transformación digital  
-📈 Más de 40 clientes y +15 personas gestionadas en proyectos de IA  
-📚 Fan del aprendizaje continuo (y sí, me encantan los frameworks de productividad)
+Soy un profesional con base en **negocios digitales**, experiencia como **consultor en transformación digital**, y formación en **desarrollo de software**.  
+He trabajado con empresas de distintos sectores y liderado equipos internacionales para convertir ideas en productos reales, aplicando metodologías ágiles, pensamiento estratégico y mucha pasión.
 
----
-
-## 📫 Conecta conmigo
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/miguel-angel-aviles/)
-- 🌍 [Web de LightU](https://www.lightu.es/)
-- 📧 ma.aviles.garcia@gmail.com
+🧠 **Mentalidad maker:** si algo no existe, lo creo.  
+🤝 **Fuerte enfoque colaborativo:** disfruto coordinar talento y resolver problemas complejos en equipo.  
+🌱 **Aprendiz constante:** siempre buscando el siguiente reto que me saque de mi zona de confort.
 
 ---
 
-## 🧠 Fun facts
+### 🧩 Áreas clave
 
-- Mi propósito: liderar iniciativas de innovación con impacto social.
-- Creo que la tecnología tiene sentido si transforma vidas reales.
-- Combino pensamiento estratégico, pasión creativa y foco técnico.
-- Y sí, soy de los que sueñan grande y ejecutan en pequeños sprints 😉
+- 🧠 Inteligencia Artificial Generativa  
+- 🔄 Automatización & No-Code / Low-Code  
+- 🌐 Transformación Digital  
+- 📊 Análisis de Datos & Visualización  
+- 🧪 Emprendimiento Tech con Propósito  
+- 💼 Estrategia & Gestión de Proyectos
 
 ---
 
-## 🛠️ Recursos que recomiendo
+### 🛠️ Tech stack
 
-| Herramienta                           | ¿Para qué sirve?                        | Enlace                                                  |
-|--------------------------------------|----------------------------------------|----------------------------------------------------------|
-| `readme.so`                          | Editor visual de `README.md`           | [🔗 Ir al sitio](https://readme.so/)                     |
-| `Shields.io`                         | Crear insignias (badges) para GitHub   | [🔗 Ir al sitio](https://shields.io/)                    |
-| `GitHub Readme Stats`                | Mostrar stats bonitos de tu perfil     | [🔗 Ir al repo](https://github.com/anuraghazra/github-readme-stats) |
-| `GitHub Profile README Generator`    | Generar README de perfil personal      | [🔗 Ir al generador](https://rahuldkjain.github.io/gh-profile-readme-generator/) |
+- Lenguajes: `C`, `Python`, `JavaScript`, `HTML`, `CSS`
+- Desarrollo: `Git`, `Shell`, `Figma`, `Make.com`, `Zapier`
+- Frameworks y herramientas: `React`, `Node.js`, `Vercel`, `Tailwind`, `Docker`
+- Automatización: `Make`, `GPTs`, `IA generativa`, `Notion API`, `Zaps personalizados`
+- Otros: `Scrum`, `Kanban`, `Design Thinking`, `UI/UX`, `Crowdfunding`, `Pitching`
+
+---
+
+### 🧠 Proyectos destacados
+
+- 🔥 [**LightU**](https://www.lightu.es): Plataforma IA + mentoring para orientar académica y profesionalmente a estudiantes.
+- 🌱 [**Kivo**](https://v0-sustainable-land-sale-page-wine.vercel.app/): conecta propietarios de terrenos con inversores para proyectos sostenibles.
+- 🧬 [**Dreamchain**](https://github.com/miaviles11/dreamchain-v1): experimento que mezcla blockchain, IA y automatización para soluciones descentralizadas.
+
+---
+
+### 📈 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miaviles11&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaviles11&layout=compact&theme=radical)
 
 ---
 
 ### 💬 Frase favorita
 
-> “Hazlo tan bien que no puedan ignorarte.” — Steve Martin
+> “Hazlo tan bien que no puedan ignorarte.” — *Steve Martin*
 
 ---
 
 ### ☕ ¿Charlamos?
 
-Si te interesa la IA, la educación, o la creación de agentes locales… ¡conectemos!  
+Si te interesa la **tecnología**, la **educación**, o el **mundo empresarial**… ¡conectemos!  
+Me encanta compartir ideas, crear sinergias y aprender de otros builders.  
 
-⭐ ¡Gracias por pasarte por mi perfil! Si crees que podemos colaborar, estoy siempre abierto a construir cosas nuevas juntos.
+⭐ ¡Gracias por pasarte por mi perfil!  
+Si crees que podemos colaborar, estoy siempre abierto a construir cosas nuevas juntos.  
 
+---
+
+### 🧠 Fun facts
+
+- 🎯 Mi propósito: liderar iniciativas de innovación con impacto social.  
+- 🧍 Creo que la tecnología tiene sentido si transforma vidas reales.  
+- 🎨 Combino pensamiento estratégico, pasión creativa y foco técnico.  
+- 🚀 Y sí, soy de los que sueñan grande y ejecutan en pequeños sprints 😉
+
+---
+
+### 📬 Conectemos
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/miguel-angel-aviles/)
+- 💌 ma.aviles.garcia@gmail.com
+
+---
