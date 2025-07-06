@@ -24,9 +24,9 @@ He trabajado con empresas de distintos sectores y liderado equipos internacional
 ### 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miaviles11&show_icons=true&theme=react&hide=prs" width="33%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miaviles11&theme=react" width="33%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaviles11&layout=compact&theme=radical" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miaviles11&show_icons=true&theme=react&hide=prs" width="33%" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miaviles11&theme=react" width="33%" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaviles11&layout=compact&theme=radical" width="33%" height="180" />
 </p>
 
 <p align="center">
